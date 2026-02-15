@@ -10,7 +10,11 @@ Caddy Web Server with Custom Modules
 ```
 docker pull ghcr.io/marce14git/caddy-custom:latest
 ```
+* from Docker Hub: 
 
+```
+docker pull marce14git/caddy-custom:latest
+```
 **Documentation**
 
 * [Caddy Docker](https://hub.docker.com/_/caddy)
