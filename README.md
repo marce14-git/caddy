@@ -1,7 +1,7 @@
 # caddy-custom
 Caddy Web Server with Custom Modules
 
-[![Docker Build and Publish](https://github.com/marce14git/caddy-custom/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/timelordx/caddy-dns-acmedns/actions/workflows/docker-publish.yml)
+[![Docker Build and Publish](https://github.com/marce14git/caddy-custom/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/marce14git/caddy-custom/actions/workflows/docker-publish.yml)
 
 **Docker Pull Command**
 
